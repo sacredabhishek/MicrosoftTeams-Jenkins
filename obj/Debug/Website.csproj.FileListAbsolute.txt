@@ -1,0 +1,8 @@
+C:\GitHub\simova-website\bin\Website.dll
+C:\GitHub\simova-website\bin\Website.pdb
+C:\GitHub\simova-website\obj\Debug\Website.dll
+C:\GitHub\simova-website\obj\Debug\Website.pdb
+D:\Github-Sacredabhishek\MicrosoftTeams-Jenkins\bin\Website.dll
+D:\Github-Sacredabhishek\MicrosoftTeams-Jenkins\bin\Website.pdb
+D:\Github-Sacredabhishek\MicrosoftTeams-Jenkins\obj\Debug\Website.dll
+D:\Github-Sacredabhishek\MicrosoftTeams-Jenkins\obj\Debug\Website.pdb
