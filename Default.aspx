@@ -314,8 +314,7 @@
 			<div id="cspio-socialprofiles">
 			
             <a href="https://github.com/sacredabhishek/MicrosoftTeams-Jenkins" target="_blank">  <img id="Img4" src="Images/Github.png" height = 40, width =40 ></a>				
-            <a href="https://www.youtube.com/channel/UCOcW7kVAkjQ9C6K9aZJEoyw" target="_blank">  <img id="Img3" src="Images/youtube_avatar_2x.jpg" height = 38, width =38 ></a>				
-          <a href="https://www.medium.com/zapcreek" target="_blank">  <img id="Img1" src="Images/Medium.jpg" height = 38, width =38 ></a>				 
+            <a href="https://www.medium.com/zapcreek" target="_blank">  <img id="Img1" src="Images/Medium.jpg" height = 38, width =38 ></a>				 
 		                <%--	<a href="" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>	--%>				
 			</div>
 
